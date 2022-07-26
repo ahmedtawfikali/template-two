@@ -320,7 +320,6 @@ body {
 
 /* < !-- start portfolio --> */
 .portfolio {
-    padding-top: var(--section-padding);
     background-color: var(--section-backgruonf);
 
 }
